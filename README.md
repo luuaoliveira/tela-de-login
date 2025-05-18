@@ -6,5 +6,5 @@ projeto tela de login responsiva :)
 feito com:
 
 * HTML
-* *CSS
+* CSS
 
